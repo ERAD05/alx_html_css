@@ -1,2 +1,25 @@
-C:\Users\ERAD\Documents\JS project\new.html\images\my html projects\tweets.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+     <h1>My first website</h1>
+     <h2>ERAD WEB</h2>
+     <h3>SOFTWEB</h3>
+    <p>This is created by ERAD.</p>
+    <P>WELCOME HERE</P>
+    <P>TAKE YOUR TIME</P>
+    <P>ENJOY YOUR STAY</P>
+    <a href="https://www.wikipedia.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Wikipedia-logo-v5-01.svg/1200px-Wikipedia-logo-v5-01.svg.png" alt="Wikipedia logo" width="200">
+</a>
+
+</body>
+</html>
+
+
 
