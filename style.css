@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 * {
     margin: 0;
@@ -133,3 +134,59 @@ nav a:hover {
     opacity: 0.8;
     line-height: 1.4;
 }
+=======
+section {
+    background: #c27fff; 
+    padding: 60px 40px;
+    display: flex;              
+    align-items: center;        
+    gap: 30px;
+    max-width: 15000px;
+    margin: 0 auto;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+
+section img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+
+section .content {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+section blockquote {
+    margin: 0;
+    font-size: 1.1rem;
+    line-height: 1.5;
+}
+
+
+section h3 {
+    margin: 0;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+
+section p {
+    margin: 0;
+    font-style: italic;
+    opacity: 0.8;
+}
+
+
+@media (max-width: 700px) {
+    section {
+        flex-direction: column;
+        text-align: center;
+    }
+}
+>>>>>>> 2746108f04f2244c78ad152ce9e6d8eea2570cfe
